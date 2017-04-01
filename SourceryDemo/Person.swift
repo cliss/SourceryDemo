@@ -18,4 +18,5 @@ struct Person {
                                                to: Date()).year ?? -1
     }
 }
+extension Person: AutoEquatable {}
 
