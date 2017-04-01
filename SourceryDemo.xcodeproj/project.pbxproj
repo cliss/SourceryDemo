@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		C9FEB7991E8F237D00F7FF83 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9FEB7981E8F237D00F7FF83 /* main.swift */; };
 		C9FEB7A01E8F238D00F7FF83 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9FEB79F1E8F238D00F7FF83 /* Person.swift */; };
-		C9FEB7A21E8F24EC00F7FF83 /* AutoEquality.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9FEB7A11E8F24EC00F7FF83 /* AutoEquality.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,7 +27,6 @@
 		C9FEB7951E8F237D00F7FF83 /* SourceryDemo */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SourceryDemo; sourceTree = BUILT_PRODUCTS_DIR; };
 		C9FEB7981E8F237D00F7FF83 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		C9FEB79F1E8F238D00F7FF83 /* Person.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
-		C9FEB7A11E8F24EC00F7FF83 /* AutoEquality.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AutoEquality.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,7 +61,6 @@
 			children = (
 				C9FEB7981E8F237D00F7FF83 /* main.swift */,
 				C9FEB79F1E8F238D00F7FF83 /* Person.swift */,
-				C9FEB7A11E8F24EC00F7FF83 /* AutoEquality.swift */,
 			);
 			path = SourceryDemo;
 			sourceTree = "<group>";
@@ -128,7 +125,6 @@
 			files = (
 				C9FEB7A01E8F238D00F7FF83 /* Person.swift in Sources */,
 				C9FEB7991E8F237D00F7FF83 /* main.swift in Sources */,
-				C9FEB7A21E8F24EC00F7FF83 /* AutoEquality.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,6 +256,7 @@
 				C9FEB79E1E8F237D00F7FF83 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
